@@ -24,7 +24,7 @@ Redactar un contrato de arriendo en Chile puede ser complejo: cláusulas obligat
 
 ## Características Principales
 
-- **Generación con IA:** Redacción automática con la API de Google Gemini, siguiendo estructura legal chilena.
+- **Generación con IA:** Redacción automática con la API de OpenAI, siguiendo estructura legal chilena.
 - **Dos versiones disponibles:** 
   - **Básica:** Gratuita, para acuerdos simples.
   - **Profesional:** (pago simulado) Incluye cláusulas opcionales más robustas.

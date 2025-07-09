@@ -1,0 +1,6 @@
+{
+  "name": "AIContrato",
+  "description": "AIContrato es una aplicación web para generar contratos de arrendamiento personalizados para Chile utilizando inteligencia artificial. Ingrese los detalles del arrendador, arrendatario, propiedad y cláusulas para crear un borrador de contrato legal.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
